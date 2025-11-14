@@ -13,10 +13,10 @@ def main():
 
     # Example test condition
     if result == 4:
-        print("Test passed! 🎉")
+        print("Test passed! ")
         sys.exit(0)
     else:
-        print("Test failed ❌")
+        print("Test failed ")
         sys.exit(1)
 
 if __name__ == "__main__":
